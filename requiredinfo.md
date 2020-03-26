@@ -1,1 +1,5 @@
-Gbadebo Oluwatomisin, tomisin619@gmail.com, tohmeeg, Back end, C#
+Full name: Gbadebo Oluwatomisin
+Email address: tomisin619@gmail.com
+Slack username: tohmeeg
+Track: Back end
+Course registered: C#
